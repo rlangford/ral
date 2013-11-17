@@ -8,7 +8,6 @@ var express = require('express')
   , routes = require('./routes')
   , bookmarks = require('./routes/bookmarks')
   , resume = require('./routes/resume')
-  , robots = require('./routes/robots')
   , errpage = require('./routes/errpage')  
   , http = require('http')
   , path = require('path');
@@ -37,8 +36,6 @@ app.get('/', routes.index);
 app.get('/bookmarks', bookmarks.index);
 app.get('/resume', resume.index);
 
-app.get('/robots.txt', robots.robots);
-app.get('/sitemap.xml', robots.sitemap);
 
 app.use(function(req,res,next){
   res.status(404);

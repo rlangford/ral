@@ -1,0 +1,4 @@
+#robots.txt for http://www.ryanlangford.com/
+#static version
+User-agent: *
+Sitemap: http://www.ryanlangford.com/sitemap.xml

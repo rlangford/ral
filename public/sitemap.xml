@@ -1,0 +1,20 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>http://www.ryanlangford.com/</loc>
+<lastmod>2013-11-17</lastmod>
+<prioroity>1.0</prioroity>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://www.ryanlangford.com/bookmarks</loc>
+<lastmod>2013-11-17</lastmod>
+<prioroity>1.0</prioroity>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://www.ryanlangford.com/resume</loc>
+<lastmod>2013-11-17</lastmod>
+<prioroity>1.0</prioroity>
+<changefreq>weekly</changefreq>
+</url>
+</urlset>
